@@ -72,16 +72,20 @@ Human-Centered Healthcare.
 CMS Innovation > Broad Public. In 2 years, everything will work this way.
 Obama’s Legacy, healthcare reform.
 
+<!-- .slide: data-background="lib/img/eye.jpg" class="white" -->
+
 
 #### Build a culture of passion ####
-(through interactive storytelling).
+*(through interactive storytelling)*
 
 Hiring 5-10 new people / week. They know what Remedy is, but not why it is.
 Creating internal alignment, trust, solidarity, excitement.
 Recruiting & retaining the best talent in the industry.
 
+<!-- .slide: data-background="lib/img/osawa.jpg" class="white" -->
 
-#### Launch a world-class brand ####
+
+#### Launch a powerful brand ####
 *(through simple, clear design)*
 
 Iconic
@@ -90,12 +94,14 @@ We are facilitating of the future of health.
 Change agents. Innovators. Who care.
 Gentle masculine; trustworthy; contemporary.
 
+<!-- .slide: data-background="lib/img/triptych.jpg" class="white" -->
+
 
 
 ##### What's next #####
 <br>
 # Let's start simply. #
-We will do so much work, the culture building assets which no one else does. We'll build a video and your culture alone with it.
+We propose to begin with a 
 
 Let's bring humanity back to healthcare.
 <br><br>
