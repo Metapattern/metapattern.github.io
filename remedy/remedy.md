@@ -54,7 +54,7 @@ Our process *is* our work. We embed to get close to the heartbeat.  Distilling t
 
 We are Metapattern.
 
-<!-- .slide: data-background="lib/img/stones.JPG" class="white" -->
+<!-- .slide: data-background="lib/img/stones-dark.jpg" class="white" -->
 
 
 
@@ -106,4 +106,3 @@ We propose to begin with a
 Let's bring humanity back to healthcare.
 <br><br>
 ##### <a href="https://docs.google.com/a/metapattern.is/document/d/1v0AMw2u7CUg7jCYoxUYKbkP2B08a1pxzdMT2qwD9YmI/edit" class="btn"> See our Detailed Proposal </a> #####
-
