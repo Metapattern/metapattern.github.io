@@ -98,4 +98,4 @@ We propose to start at the beginning, with a discovery process to uncover Remedy
 
 Let's bring humanity back to healthcare.
 <br><br>
-##### <a href="https://docs.google.com/a/metapattern.is/document/d/1v0AMw2u7CUg7jCYoxUYKbkP2B08a1pxzdMT2qwD9YmI/edit" class="btn"> See our Detailed Proposal </a> #####
+##### <a href="http://metapattern.github.io/remedy/docs/meta_remedy_proposal_01.pdf" class="btn"> See our Detailed Proposal </a> #####
