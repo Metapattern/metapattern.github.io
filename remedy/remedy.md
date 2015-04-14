@@ -70,7 +70,7 @@ The curiosity we cultivate in truly understanding your work will live on in deli
 
 Human-Centered Healthcare.
 CMS Innovation > Broad Public. In 2 years, everything will work this way.
-Obama’s Legacy, healthcare reform.
+Obama's Legacy, healthcare reform.
 
 <!-- .slide: data-background="lib/img/eye.jpg" class="white" -->
 
@@ -100,8 +100,8 @@ Gentle masculine; trustworthy; contemporary.
 
 ##### What's next #####
 <br>
-# Let's start simply. #
-We propose to begin with a 
+# Let's begin. #
+We propose to start at the beginning, with a powerful "Hero" video 
 
 Let's bring humanity back to healthcare.
 <br><br>
