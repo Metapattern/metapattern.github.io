@@ -6,7 +6,7 @@
 <br><br>
 -
 <br><br>
-Press the __Spacebar__ or __Right Arrow__ key to advance.
+<small>Press the __Spacebar__ or __Right Arrow__ key to advance.</small>
 
 
 ## Welcome. ##
@@ -94,7 +94,7 @@ Gentle masculine; trustworthy; contemporary.
 ##### What's next #####
 <br>
 # Let's begin. #
-We propose to start at the beginning, with a powerful "Hero" video 
+We propose to start at the beginning, with a discovery process to uncover Remedy's roots. From there we'll write, shoot and edit a compelling Hero video to generate emotional resonance and share your story. Then we'll collect the inspiration that birthed Remedy, from audio interviews to reading lists, and assemble it into an interactive microsite to help share your passion and perpective with your current and future team.
 
 Let's bring humanity back to healthcare.
 <br><br>
