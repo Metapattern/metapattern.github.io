@@ -76,7 +76,7 @@ We will champion human-centered healthcare, driecting the difinitive short film 
 
 The curiosity we cultivate in truly understanding your work will live on in a medium that your entire company, today and tomorrow, can revist and build on.
 
-We will help you build Remedy's culture by creating a core identity and communicating it internally through an integrated microsite.  When you're hiring new people per week, you'll have a compelling tool for onboarding and educating them about Remedy's deep purpose. It'll build alignment, trust, solidarity, excitement, and a shared understanding amongst current and future employees, and will help you attract and retain the best talent in the industry.
+We will help you build Remedy's culture by creating a core identity and communicating it internally through an integrated microsite.  When you're hiring new people every week, you'll have a compelling tool for onboarding and educating them about Remedy's deep purpose. It'll build alignment, trust, solidarity, excitement, and a shared understanding amongst current and future employees. It will help you attract and retain the best talent in the industry.
 
 <!-- .slide: data-background="lib/img/swirl-dark.jpg" class="white" -->
 
