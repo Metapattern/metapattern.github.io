@@ -72,7 +72,7 @@ Human-Centered Healthcare.
 CMS Innovation > Broad Public. In 2 years, everything will work this way.
 Obama's Legacy, healthcare reform.
 
-<!-- .slide: data-background="lib/img/eye.jpg" class="white" -->
+<!-- .slide: data-background="lib/img/elder.jpg" class="white" -->
 
 
 #### Build a culture of passion ####
@@ -94,7 +94,7 @@ We are facilitating of the future of health.
 Change agents. Innovators. Who care.
 Gentle masculine; trustworthy; contemporary.
 
-<!-- .slide: data-background="lib/img/triptych.jpg" class="white" -->
+<!-- .slide: data-background="lib/img/swirl-dark.jpg" class="white" -->
 
 
 
