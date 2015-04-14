@@ -33,7 +33,7 @@ It's time to bring humanity back to healthcare.
 ##### Who you are #####
 <br>
 ## Remedy Partners blends deep expertise with a spirit of innovation. ##
-Your team has defined an industry once already. Blending incredible expertise across sectors: venture capital, finance, technology, public policy, and healthcare with a fast growing, young and ambitious team.
+Your team has defined an industry once already. Blending incredible expertise across sectors: venture capital, finance, technology, public policy, and healthcare with <br> a fast growing, young and ambitious team.
 
 Capable, caring, and cutting edge: this is a truly modern healthcare company. 
 
@@ -66,7 +66,7 @@ We are Metapattern.
 #### Lead a revolution ####
 *(through the power of storytelling)*
 
-We will champion human-centered healthcare, driecting the difinitive short film that reveals and crystallizes the revolution that's already taking place. Our story moves between single patient and doctor stories. It reveals the differences in user experience between the way things were and the way the will be.  The story will speak to the individual, to industry as a whole, and to the broad economic reform underway. 
+We will champion human-centered healthcare, driecting the difinitive short film that reveals and crystallizes the revolution that's already taking place. Our story moves between single patient and doctor stories. It reveals the differences in human experience between the way things were and the way they will be.  The story will speak to the individual, to industry as a whole, and to the broad economic reform underway. 
 
 <!-- .slide: data-background="lib/img/elder.jpg" class="white" -->
 
