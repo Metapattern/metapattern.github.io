@@ -62,13 +62,11 @@ We are Metapattern.
 <br>
 ## What's possible together? ##
 
-The curiosity we cultivate in truly understanding your work will live on in a media that your entire company, today and tomorrow, can revist and build on.
-
 
 #### Lead a revolution ####
 *(through the power of storytelling)*
 
-We will champion human-centered healthcare, driecting the difinitive short film that reveals and crystallizes the revolution that's already taking place. Our story moves between single patient and doctor stories to reveal the difference in user experience, out to the industry as a whole and the economic reform taking place through bundled payments and episodic care.  
+We will champion human-centered healthcare, driecting the difinitive short film that reveals and crystallizes the revolution that's already taking place. Our story moves between single patient and doctor stories. It reveals the differences in user experience between the way things were and the way the will be.  The story will speak to the individual, to industry as a whole, and to the broad economic reform underway. 
 
 <!-- .slide: data-background="lib/img/elder.jpg" class="white" -->
 
@@ -76,7 +74,9 @@ We will champion human-centered healthcare, driecting the difinitive short film 
 #### Build a culture of passion ####
 *(through an internal cultural microsite)*
 
-We will build Remedy's culture by creating a core identity and communicating it internally through an integrated microsite.  When you're hiring 5-10 new people per week, you'll have a compelling tool for onboarding and educating them about Remedy's deep purpose. It'll build alignment, trust, solidarity, excitement, and a shared understanding amongst current and future employees, and will help you attract and retain the best talent in the industry.
+The curiosity we cultivate in truly understanding your work will live on in a medium that your entire company, today and tomorrow, can revist and build on.
+
+We will help you build Remedy's culture by creating a core identity and communicating it internally through an integrated microsite.  When you're hiring new people per week, you'll have a compelling tool for onboarding and educating them about Remedy's deep purpose. It'll build alignment, trust, solidarity, excitement, and a shared understanding amongst current and future employees, and will help you attract and retain the best talent in the industry.
 
 <!-- .slide: data-background="lib/img/swirl-dark.jpg" class="white" -->
 
@@ -85,7 +85,7 @@ We will build Remedy's culture by creating a core identity and communicating it 
 *(through simple, clear design)*
 
 Iconic, leading the movement. We are facilitating of the future of health. We are change agents. Innovators, who truly care.
-Gentle masculine; trustworthy; contemporary.
+The wise elder, trustworthy yet contemporary.
 
 <!-- .slide: data-background="lib/img/display-remedy.jpg" class="white" -->
 
