@@ -1,2 +1,0 @@
-# EyeNetra #
-### Proposal ###
