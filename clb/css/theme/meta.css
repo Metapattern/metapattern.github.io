@@ -28,7 +28,8 @@ img.display {
     letter-spacing: 0.3em;
     position: fixed;
     top: 2em;
-    color: #9b9793; }
+    color: #9b9793;
+    width: 40%; }
     .lowbar .footnote.left {
       left: 2em;
       text-align: left; }

@@ -35,15 +35,15 @@
 
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
-			width: 1280,
+			width: 960,
 			height: 700,
 
 			// Factor of the display size that should remain empty around the content
 			margin: 0.1,
 
 			// Bounds for smallest/largest possible scale to apply to content
-			minScale: 0.8,
-			maxScale: 1.0,
+			minScale: 0.2,
+			maxScale: 1.5,
 
 			// Display controls in the bottom right corner
 			controls: true,

@@ -1,6 +1,6 @@
 
-# Remedy Partners #
-##### Storytelling, Culture & Identity #####
+# Wells Fargo #
+##### Rapid Prototyping Workshop #####
 <br>
 *An interactive proposal from Metapattern.*
 <br><br>
@@ -12,14 +12,14 @@
 ## Welcome. ##
 
 *This proposal was crafted to articulate our understanding of your project,
-and share our approach, philosophy and a selection of our work. Consider it a point of departure.*
+and share our proposed approach and philosophy. Consider it a point of departure.*
 <br><br>
 
 
 
 ##### Where we are #####
 <br>
-### Healthcare is the biggest issue of our time. ###
+### Rapid Prototyping accelerates innovation. ###
 The Affordable Care Act will be Obama's great legacy. It's the most important issue of our time. 
 
 A revolution is afoot. Innovations around bundled payments are inverting industry economics and puting patients back at the center. It started with Medicare, but that is just the beginning. 
