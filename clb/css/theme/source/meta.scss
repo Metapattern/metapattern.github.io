@@ -57,6 +57,7 @@ img.display {
 		top: 2em;
 		color: $linkColor;
 		width: 40%;
+		line-height: 1.6em;
 
 		&.left {
 			left: 2em;
@@ -130,7 +131,7 @@ img.display {
 	}
 
 	p {
-		font-size: 0.6em;
+		font-size: 1em;
 		line-height: 1.6em;
 		margin: 0 auto 1em;
 		max-width: 35em;

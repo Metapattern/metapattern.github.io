@@ -29,7 +29,8 @@ img.display {
     position: fixed;
     top: 2em;
     color: #9b9793;
-    width: 40%; }
+    width: 40%;
+    line-height: 1.6em; }
     .lowbar .footnote.left {
       left: 2em;
       text-align: left; }
@@ -75,7 +76,7 @@ img.display {
     border-top-width: 10px;
     display: none; }
 .reveal p {
-  font-size: 0.6em;
+  font-size: 1em;
   line-height: 1.6em;
   margin: 0 auto 1em;
   max-width: 35em; }
