@@ -22,12 +22,29 @@ $linkColor: #9B9793;
 $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: #CCC;
 
+.dark {
+	.lowbar {
+		.footnote {
+			color: white;
+		}	
+	}
+
+	.reveal {
+		color: #FFF !important;
+	}
+
+}
+
 img.round {
 	border-radius: 50em;
 }
 
 img.display {
 	margin-top: -10em;
+}
+
+.redded {
+	color: red !important;
 }
 
 .lowbar {
@@ -77,6 +94,14 @@ img.display {
 }
 
 .reveal {
+
+	.slide-background {
+		
+		video {
+			object-fit: cover;
+		}
+
+	}
 
 	img.logo.welcome {
 		border-bottom: 1px solid rgba(0,0,0,0.3);
@@ -134,7 +159,7 @@ img.display {
 		font-size: 1em;
 		line-height: 1.6em;
 		margin: 0 auto 1em;
-		max-width: 35em;
+		max-width: 80%;
 	}
 
 	strong {
@@ -160,7 +185,8 @@ img.display {
 
 	h1 {
 		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
-		line-height: 1.4em;
+		line-height: 3em;
+		font-size: 2em;
 	}
 
 	h2 {
@@ -232,10 +258,6 @@ img.display {
 
 	.wide p {
 		max-width: 100%;
-	}
-
-	.white, .white h3, .white h2, .white h4, .white h5 {
-		color: #FFF !important;
 	}
 
 	#welcome h3 {
