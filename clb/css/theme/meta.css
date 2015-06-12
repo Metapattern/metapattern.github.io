@@ -88,8 +88,7 @@ img.display {
 .reveal p {
   font-size: 1em;
   line-height: 1.6em;
-  margin: 0 auto 1em;
-  max-width: 80%; }
+  margin: 0 auto 1em; }
 .reveal strong {
   font-weight: bold; }
 .reveal em {
