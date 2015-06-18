@@ -33,6 +33,10 @@ $selectionBackgroundColor: #CCC;
 		color: #FFF !important;
 	}
 
+	p {
+		color: white;
+	}
+
 }
 
 img.round {
@@ -157,16 +161,23 @@ img.display {
 
 	p {
 		font-size: 1em;
-		line-height: 1.6em;
-		margin: 0 auto 1em;
+		line-height: 1.2em;
+		margin: 0 auto;
+		max-width: 20em;
+
+		em {
+			font-size: 0.6em;
+	  		line-height: 0.6em;
+	  		opacity: 0.85;
+		}
+	}
+
+	em {
+	  font-style: italic;
 	}
 
 	strong {
 		font-weight: bold;
-	}
-
-	em {
-		font-style: italic;
 	}
 
 	blockquote p {
@@ -185,7 +196,7 @@ img.display {
 	h1 {
 		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
 		line-height: 3em;
-		font-size: 2em;
+		font-size: 1.6em;
 	}
 
 	h2 {

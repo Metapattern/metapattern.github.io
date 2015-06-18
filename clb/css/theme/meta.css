@@ -5,6 +5,8 @@
   color: white; }
 .dark .reveal {
   color: #FFF !important; }
+.dark p {
+  color: white; }
 
 img.round {
   border-radius: 50em; }
@@ -87,12 +89,17 @@ img.display {
     display: none; }
 .reveal p {
   font-size: 1em;
-  line-height: 1.6em;
-  margin: 0 auto 1em; }
-.reveal strong {
-  font-weight: bold; }
+  line-height: 1.2em;
+  margin: 0 auto;
+  max-width: 20em; }
+  .reveal p em {
+    font-size: 0.6em;
+    line-height: 0.6em;
+    opacity: 0.85; }
 .reveal em {
   font-style: italic; }
+.reveal strong {
+  font-weight: bold; }
 .reveal blockquote p {
   margin: 0 auto; }
 .reveal ol {
@@ -103,7 +110,7 @@ img.display {
 .reveal h1 {
   font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
   line-height: 3em;
-  font-size: 2em; }
+  font-size: 1.6em; }
 .reveal h2 {
   font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
   margin-bottom: 0.6em !important; }

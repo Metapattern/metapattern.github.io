@@ -43,7 +43,7 @@
 
 			// Bounds for smallest/largest possible scale to apply to content
 			minScale: 0.6,
-			maxScale: 1.5,
+			maxScale: 1.2,
 
 			// Display controls in the bottom right corner
 			controls: true,
