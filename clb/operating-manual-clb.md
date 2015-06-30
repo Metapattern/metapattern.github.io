@@ -132,13 +132,17 @@ Openness.
 *I absolutely support your process of being and becoming, and will always maintain an open mind and supportive spirit for the things that truly matter to you. It doesn't necessarily mean I agree, or that we're compatible in a way that's mutually nourishing, but I'll always hold space for your side.*
 
 
+
 # My Values
+
+
+#### Honesty
 
 
 #### Curiosity
 
 
-#### Honesty
+#### Adventure
 
 
 #### Proximity to Nature
@@ -151,3 +155,4 @@ Openness.
 
 
 
+Thank you.
