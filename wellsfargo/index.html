@@ -51,20 +51,20 @@
 		<div class="lowbar">
 			<span class="footnote left">Wells Fargo × Metapattern</span>
 			<img width="1em" src="lib/img/logo.svg" alt="Metapattern" class="logo">
-			<span class="footnote right">May 28, 2015  //  confidential</span>
+			<span class="footnote right">June 30, 2015  //  confidential</span>
 		</div>
 
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 
-				<section data-markdown="wellsfargo.md"  
+				<section data-markdown="https://dl.dropboxusercontent.com/s/ealw99tq9c2i41q/wellsfargo.md?dl=0"  
 				         data-separator="^\n\n\n"  
 				         data-vertical="^\n\n"  
 				         data-notes="^Note:"  
 				         data-charset="iso-8859-15">
 				</section>
-
+				
 			</div>
 
 		</div>
@@ -97,6 +97,13 @@
 				livereload: true,
 				previewLinks:false,
 
+				multiplex: {
+			        // Example values. To generate your own, see the socket.io server instructions.
+			        secret: '1435781525041427206', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+			        id: 'd73a6a1e8b24621d', // Obtained from socket.io server
+			        url: 'http://localhost:1948/' // Location of socket.io server
+			    },
+
 				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
 				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
 				transitionSpeed: 'default', // default/fast/slow
@@ -112,7 +119,9 @@
 					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.16/socket.io.min.js', async: true },
+			        { src: 'plugin/multiplex/master.js', async: true }
 				]
 			});
 
