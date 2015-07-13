@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<style>
+
+		.bar {
+			height: 3em;
+			line-height: 3em;
+			font-size: 1em;
+			font-family: Gotham;
+			background-color: rgba(0,0,0,0.3);
+			letter-spacing: .1em;
+			text-align: right;
+			color: #fff;
+			padding-right: 0.5em;
+			margin-bottom: 0.5em;
+		}
+	</style>
+	<script src="../js/d3.js"></script>
+</head>
+<body>
+	
+	<script>
+	function draw(data) {
+			
+			var margin = 50,
+				width = 700,
+				height = 300;
+
+			d3.select("body")
+				.append("svg")
+					.attr("width", width)
+					.attr("height", height)
+				.selectAll("circle")
+				.data(data)
+				.enter
+				.append("circle");
+
+		}
+	</script>
+
+
+		<script>
+			d3.json("plaza_traffic.json", draw);
+		</script>
+
+</body>
+</html>
