@@ -50,8 +50,8 @@
 
 		<div class="lowbar">
 			<span class="footnote left">Wells Fargo × Metapattern</span>
-			<img width="1em" src="lib/img/logo.svg" alt="Metapattern" class="logo">
-			<span class="footnote right">June 30, 2015  //  confidential</span>
+			<a href="/"><img width="1em" src="lib/img/logo.svg" alt="Metapattern" class="logo"></a>
+			<span class="footnote right"><script>print(new Date().toJSON().slice(0,10)));</script>  //  confidential</span>
 		</div>
 
 
@@ -62,7 +62,7 @@
 				         data-separator="^\n\n\n"  
 				         data-vertical="^\n\n"  
 				         data-notes="^Note:"  
-				         data-charset="iso-8859-15">
+				         data-charset="utf-8">
 				</section>
 				
 			</div>
@@ -105,8 +105,8 @@
 			    },
 
 				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
-				transitionSpeed: 'default', // default/fast/slow
+				transition: Reveal.getQueryHash().transition || 'concave', // default/cube/page/concave/zoom/linear/fade/none
+				transitionSpeed: 'slow', // default/fast/slow
 
 				// Parallax scrolling
 				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
