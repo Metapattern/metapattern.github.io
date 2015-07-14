@@ -88,7 +88,9 @@ img.display {
   list-style-type: lower-roman; }
 .reveal ol, .reveal ul {
   font-size: 0.7em;
-  list-style-position: outside; }
+  list-style-position: inside; }
+.reveal ol li {
+  padding-top: 0.4em; }
 .reveal h1 {
   font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
   line-height: 1.4em;
@@ -105,7 +107,9 @@ img.display {
   font-weight: 500;
   font-size: 0.65em;
   letter-spacing: 0.4em !important;
-  margin-bottom: 1.2em !important; }
+  margin-bottom: 1.2em; }
+  .reveal h4.fragment {
+    margin: 1em 0 .5em; }
 .reveal h5 {
   font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham !important;
   text-transform: uppercase !important;

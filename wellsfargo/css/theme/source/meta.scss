@@ -153,7 +153,11 @@ img.display {
 
 	ol, ul {
 		font-size: 0.7em;
-		list-style-position: outside;
+		list-style-position: inside;
+	}
+
+	ol li {
+		padding-top: 0.4em;
 	}
 
 	h1 {
@@ -178,11 +182,15 @@ img.display {
 		font-weight: 500;
 		font-size: 0.65em;
 		letter-spacing: 0.4em !important;
-		margin-bottom: 1.2em !important;
+		margin-bottom: 1.2em;
 		// position: fixed;
 		// top: -120px;
 		// left: 0;
 		// right: 0;
+
+		&.fragment {
+			margin: 1em 0 .5em;
+		}
 	}
 
 	h5 {
