@@ -287,3 +287,6 @@ section {
 .cta {
   border-bottom: none;
   background-color: rgba(215, 220, 223, 0.6); }
+
+.hidden {
+  display: none; }
