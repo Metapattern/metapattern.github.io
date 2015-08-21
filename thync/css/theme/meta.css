@@ -1,6 +1,11 @@
 /**
  * Metapattern is a studio for emergent design.
  */
+
+.dark body {
+  background-color: #150F17;
+}
+
 img.round {
   border-radius: 50em; }
 
@@ -40,7 +45,8 @@ img.display {
   line-height: 1.3em; }
 
 .reveal .dim {
-  opacity: 0.6; }
+  opacity: 0.3;
+  font-weight: 100; }
 .reveal img.logo.welcome {
   border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   padding: 0 0 2em;
@@ -131,8 +137,7 @@ img.display {
   width: 100%;
   margin: auto;
   border-collapse: collapse;
-  border-spacing: 0;
-  font-size: 0.6em; }
+  border-spacing: 0; }
   .reveal table th, .reveal table td {
     text-align: center;
     margin: 0;
@@ -140,6 +145,12 @@ img.display {
   .reveal table td {
     font-size: 0.9em;
     line-height: 1.6em; }
+   .reveal table h4 {
+    padding-bottom: 0.6em;
+   }
+  .reveal table td:not(:last-child) {
+        border-right: 1px solid #CCC;
+  }  
 .reveal .wide p {
   max-width: 100%; }
 .reveal .white, .reveal .white h3, .reveal .white h2, .reveal .white h4, .reveal .white h5 {
