@@ -1,0 +1,44 @@
+.site-header {
+  padding: 2em;
+  text-align: center; }
+  .site-header h5 {
+    margin-bottom: 0; }
+
+.site-footer {
+  text-align: center; }
+
+h1 {
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+  font-size: 2em; }
+  h1:not(:nth-of-type(1)) {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 2px solid #CCC; }
+
+h2:not(:nth-of-type(1)) {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: 1px dashed #CCC; }
+
+h3 {
+  font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
+  text-transform: uppercase;
+  letter-spacing: .6em;
+  font-weight: 500;
+  font-size: 1em;
+  letter-spacing: 0.4em;
+  margin-top: 2em; }
+
+h5 {
+  font-family: "Gotham SSm A", "Gotham SSm B", Gotham;
+  text-transform: uppercase;
+  letter-spacing: .6em;
+  font-weight: 400;
+  font-size: 0.6em;
+  letter-spacing: 0.4em;
+  margin-bottom: 3em;
+  margin-top: 2em; }
+
+.highlight {
+  background-color: #FF0;
+  padding: 0.2em 1em; }
