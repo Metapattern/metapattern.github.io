@@ -5,8 +5,8 @@
     <description>Welcome to the Thync Vibe Sessions.</description>
     <link>http://yourdomain.com/thync/welcome//</link>
     <atom:link href="http://yourdomain.com/thync/welcome//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Sep 2015 10:35:32 -0700</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2015 10:35:32 -0700</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2015 10:47:40 -0700</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 10:47:40 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -100,19 +100,17 @@ The Premium team will focus and test with Meditators on Day 1, and Athletes on D
 
 &lt;p&gt;If you have have any questions or emergencies, please don’t hesitate to contact our producer, Chad Owen.&lt;/p&gt;
 
-&lt;p&gt;Chad Owen, Producer
-&lt;em&gt;cell&lt;/em&gt; 512.589.6056
-&lt;em&gt;email&lt;/em&gt; [chad@metapattern.is] (mailto:chad@metapattern.is)&lt;/p&gt;
+&lt;p&gt;Chad Owen, Producer&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cell&lt;/strong&gt; 512.589.6056 / &lt;strong&gt;email&lt;/strong&gt; &lt;a href=&quot;mailto:chad@metapattern.is&quot;&gt;chad@metapattern.is&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
 
 &lt;h4 id=&quot;required-listening&quot;&gt;Required Listening&lt;/h4&gt;
-&lt;p&gt;http://www.radiolab.org/story/9-volt-nirvana/&lt;/p&gt;
-
-&lt;h4 id=&quot;required-reading&quot;&gt;Required Reading&lt;/h4&gt;
-&lt;p&gt;Please read the Headspace site and download Headspace app and to one guided meditation.&lt;/p&gt;
-
-&lt;h4 id=&quot;optional-resources-diving-deeper&quot;&gt;Optional Resources: Diving Deeper&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.radiolab.org/story/9-volt-nirvana/&quot; target=&quot;_blank&quot;&gt;9-Volt Nirvana (Radiolab)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.headspace.com/&quot; target=&quot;_blank&quot;&gt;Headspace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jul 2015 04:00:00 -0700</pubDate>
         <link>http://yourdomain.com/thync/welcome//jekyll/update/2015/07/13/Welcome.html</link>
