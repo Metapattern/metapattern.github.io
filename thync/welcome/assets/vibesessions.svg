@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="82px" height="65px" viewBox="0 0 82 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>THE VIBE SESSIONS + Rectangle 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#F5A17B" offset="0%"></stop>
+            <stop stop-color="#9D81AE" offset="50.3388074%"></stop>
+            <stop stop-color="#242D6E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="THE-VIBE-SESSIONS-+-Rectangle-2" sketch:type="MSLayerGroup" transform="translate(-9.000000, 0.000000)">
+            <text id="THE-VIBE-SESSIONS" sketch:type="MSTextLayer" font-family="DIN Pro" font-size="8" font-weight="420" sketch:alignment="middle" letter-spacing="0.5090909" fill="#393E3E">
+                <tspan x="9.86072735" y="64.9449999">THE VIBE SESSIONS</tspan>
+            </text>
+            <path d="M60.5,0.597090244 L65,0.597090244 L40.5,49.4029098 L36,49.4029098 L60.5,0.597090244 Z" id="Rectangle-2" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
