@@ -1,7 +1,7 @@
 # Site settings
-title: Wells Fargo / Maker Lab
+title: Thync / Vibe Sessions
 email: carson@metapattern.is
-description: Welcome to the Wells Fargo Maker Lab.
+description: Welcome to the Thync Vibe Sessions.
 destination: welcome
 baseurl: "/thync/welcome/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site

@@ -42,3 +42,7 @@ h5 {
 .highlight {
   background-color: #FF0;
   padding: 0.2em 1em; }
+
+.event-logo {
+  margin: 0 auto 2em;
+  text-align: center; }

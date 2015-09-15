@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wells Fargo / Maker Lab</title>
-    <description>Welcome to the Wells Fargo Maker Lab.</description>
+    <title>Thync / Vibe Sessions</title>
+    <description>Welcome to the Thync Vibe Sessions.</description>
     <link>http://yourdomain.com/thync/welcome//</link>
     <atom:link href="http://yourdomain.com/thync/welcome//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 22:11:05 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 22:11:05 -0700</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2015 09:33:22 -0700</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 09:33:22 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Wells Fargo Maker Lab</title>
-        <description>&lt;p&gt;&lt;img src=&quot;assets/makerlab.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;event-logo&quot;&gt;&lt;img src=&quot;assets/vibesessions.svg&quot; alt=&quot;&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;thync-immersion-welcome-kit&quot;&gt;Thync Immersion Welcome Kit&lt;/h1&gt;
-&lt;p&gt;#### September 23 - 24, 2015
-#### Los Gatos, CA&lt;/p&gt;
+&lt;h1 id=&quot;welcome&quot;&gt;Welcome.&lt;/h1&gt;
 
-&lt;h2 id=&quot;welcome-to-the-thync-immersion&quot;&gt;Welcome to the Thync Immersion.&lt;/h2&gt;
-&lt;p&gt;#### Hello.
-We’d like to personally welcome you to the Thync Immersion. This is an environment for learning and experimentation, designed for building coherence and clarity internally. We seek to learn the basic parameters of what makes a great guided Vibe experience for your target users segments.  Our aim as a team is to discover, test, validate, and polish studio-quality Welcome Vibes and Premium Vibes that dramatically  enhance the onboarding process and overall user experience. During our time together, we will be focusing on two activities: 1) improving the Welcome Vibes experience for Calm and Energy by 10x and 2) develop and test “moonshot” Premium Vibe tracks for two user segments: athletes and meditators.&lt;/p&gt;
+&lt;p&gt;We’d like to personally welcome you to the Thync Immersion. This is an environment for learning and experimentation, designed for building coherence and clarity internally. We seek to learn the basic parameters of what makes a great guided Vibe experience for your target users segments.  Our aim as a team is to discover, test, validate, and polish studio-quality Welcome Vibes and Premium Vibes that dramatically  enhance the onboarding process and overall user experience.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-essentials&quot;&gt;The Essentials&lt;/h2&gt;
-&lt;p&gt;#### What&lt;/p&gt;
+&lt;p&gt;During our time together, we will be focusing on two activities:
+1. Improving the Welcome Vibes experience for Calm and Energy by 10x.
+2. Developing and testing “moonshot” Premium Vibe tracks for two user segments: athletes and meditators.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-essentials&quot;&gt;The Essentials&lt;/h1&gt;
+
+&lt;h3 id=&quot;what&quot;&gt;What&lt;/h3&gt;
 
 &lt;p&gt;24+ real and potential customers, the Thync team, sound designers and the Metapattern team coming together to learn the mindsets, tactics and strategies needed to build and run effective sprints.&lt;/p&gt;
 
@@ -34,7 +35,7 @@ How might we explore and tell the story of Premium Vibes and the Vibe Marketplac
 
 &lt;p&gt;The third ‘moonshot’ team focuses on a Premium Vibes track to measure the appeal and impact of being guided by a celebrity voice.  This team gathers insights and tests the idea of a content marketplace with existing Thync users to better understand the long-term potential.&lt;/p&gt;
 
-&lt;h4 id=&quot;where&quot;&gt;Where&lt;/h4&gt;
+&lt;h3 id=&quot;where&quot;&gt;Where&lt;/h3&gt;
 
 &lt;p&gt;Address:
 140 W Main St. 
@@ -43,17 +44,17 @@ United States&lt;/p&gt;
 
 &lt;p&gt;Google Maps:  https://goo.gl/maps/cJBDM&lt;/p&gt;
 
-&lt;h4 id=&quot;when&quot;&gt;When&lt;/h4&gt;
+&lt;h3 id=&quot;when&quot;&gt;When&lt;/h3&gt;
 
-&lt;p&gt;Workshop Dates: July 23rd - 24th, 2015
+&lt;p&gt;July 23rd - 24th, 2015
 Arrival time (both days): 8:30am
 Finish time (both days): ~5:30pm&lt;/p&gt;
 
 &lt;p&gt;Δ / Team: Carson Linforth Bowley (principal); Mikyö Clark (principal); Ting Kelly (co-facilitator); Chad Owen (producer)&lt;/p&gt;
 
-&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+&lt;h1 id=&quot;preparation&quot;&gt;Preparation&lt;/h1&gt;
 
-&lt;h4 id=&quot;how-can-i-be-most-prepared-for-this&quot;&gt;How can I be most prepared for this?&lt;/h4&gt;
+&lt;h2 id=&quot;how-can-i-be-most-prepared-for-this&quot;&gt;How can I be most prepared for this?&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Try to get at least 8 hours of sleep the night before.&lt;/li&gt;
@@ -62,7 +63,7 @@ Finish time (both days): ~5:30pm&lt;/p&gt;
   &lt;li&gt;Please read the Headspace site and download Headspace app and to one guided meditation.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;what-should-i-bring-the-day-of&quot;&gt;What should I bring the day of?&lt;/h4&gt;
+&lt;h2 id=&quot;what-should-i-bring-the-day-of&quot;&gt;What should I bring the day of?&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Yourself&lt;/li&gt;
@@ -72,7 +73,7 @@ Finish time (both days): ~5:30pm&lt;/p&gt;
   &lt;li&gt;Your curiosity and open mind&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;what-should-i-expect&quot;&gt;What should I expect?&lt;/h4&gt;
+&lt;h2 id=&quot;what-should-i-expect&quot;&gt;What should I expect?&lt;/h2&gt;
 
 &lt;p&gt;Over the course of the two days, we will go through 4 complete prototyping cycles, from concept &amp;gt; prototype &amp;gt; test &amp;gt; iteration (maybe a diagram could be used here).&lt;/p&gt;
 
