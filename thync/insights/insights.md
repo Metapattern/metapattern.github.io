@@ -18,6 +18,7 @@ This is what we found.
 Our interviews took place over Google Hangout and Phone.  Most lasted 30 minutes.
 
 We followed the overall arc of the Lean Movement’s Problem Interview–probing for psychographic information first before exploring process-to-buy, use case, results, and relevance.
+
 Then we tacked on questions about habits of use, and users’ experience of guided vibes.
 
 
@@ -59,7 +60,7 @@ Also had a video call.
 <h4 class="big">20%</h4>
 Are active meditators.
 
-**Others mentioned the desire to try meditation and some were hoping Thync could help them start**.
+*Others mentioned the desire to try meditation and some were hoping Thync could help them start**
 
 
 <h4>Spontaneous Combustion</h4>
@@ -192,7 +193,8 @@ The early adopter base will require a high level of investment in optimizing the
 
 What’s missing is a dedicated tribe of evangelists.  Like GoPro and FitBit, Thync must become a community-driven technology platform.
 
-**Rather than focusing on Amazon retargeting ads, the company’s resources could be better spent creating an online/offline community of die-hard users who simply love Thync, and love talking about it.  This, coupled with a social layer to connect Vibe experiences and make them sharable, would lay the groundwork for a V.2 product that's ready for a wider market.**
+** Our Perspective: **
+*Rather than focusing on Amazon retargeting ads, the company’s resources could be better spent creating an online/offline community of die-hard users who simply love Thync, and love talking about it.  This, coupled with a social layer to connect Vibe experiences and make them sharable, would lay the groundwork for a V.2 product that's ready for a wider market.*
 
 
 #### Quick Wins
@@ -201,7 +203,8 @@ What’s missing is a dedicated tribe of evangelists.  Like GoPro and FitBit, Th
 
 Changes in the onboarding experience, the inclusion of guided Vibes, some UX tweaks, and improvement in the reusability of strips are all quick wins that can go a long way.
 
-**Perfecting the basics of the Thync experience should be the company’s number one focus before scaling.  The risk is scaling prematurely without working out these kinks (and making a bad first impression).**
+** Our Perspective: **
+*Perfecting the basics of the Thync experience should be the company’s number one focus before scaling.  The risk is scaling prematurely without working out these kinks (and making a bad first impression).*
 
 
 #### Up Next
@@ -211,6 +214,7 @@ Changes in the onboarding experience, the inclusion of guided Vibes, some UX twe
 As a part of our design, we’ve reached out to a core group that we believe 
 could become members of the Thync community, including some key influencers and gatekeepers.
 
+** Our Perspective: **
 *By building strong relationships and validating assumptions against a control group, we can further our inquiry about the best people to target during these early stages of the Thync life cycle.*
 
 
