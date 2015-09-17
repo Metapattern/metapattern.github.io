@@ -76,52 +76,57 @@ User burned themselves with the device.
 # Why they Thync.
 
 
-#### Types 
+#### Issues
 
 Insomniacs: 2
+
 Anxious Types (Calm): 5
+
 Fatigue Types (Energy): 9
+
 Undecided & Technologists: 5
 
 
 #### Behavior Change
 
 Actively replacing depressants: 1 person, 5% of our sample.
+
 Actively replacing stimulants: 4 people, 20% of our sample.
+
 Actively replacing tDCS or CES: 1 person, 5% of our sample.
 
 
 
 #### Key Findings
 
-## High level learnings.  
+# High level learnings.  
 
 
-## They do their homework.
+# They do their homework.
 Most did intensive research before purchasing the product.  Many “read everything there was on the internet.”
 
 *Scientifically minded audience: media, messaging, and marketing should speak at this level (eg. white papers).*
 
 
-## Cleanliness is next to...
+# Cleanliness is next to...
 Most users are hoping for a *clean* source of energy and focus/motivation.
 
 *Many are finding Thync a viable alternative to various stimulants.*
 
 
-## Friends with Benefits.
+# Friends with Benefits.
 Fairly standard distribution of benefit: from no benefit, to marginal, clear benefit, to ‘lifesaver’.
 
 *Most users are having fairly good results, and some are experiencing life-changing outcomes.*
 
 
-## Good Vibes.
+# Good Vibes.
 Most users have a good experience with Vibes once they’re onboard properly. 
 
 *The medium itself is foreign and can create doubt and uncertainty in new users.*
 
 
-## Unity in Diversity.
+# Unity in Diversity.
 Other than males, no clear group stands out.
 
 *Users vary widely in both psychographic, geographic, and demographic characteristics.*
@@ -132,31 +137,31 @@ Other than males, no clear group stands out.
 # Room to Grow.
 
 
-## Onboarding.
+# Onboarding.
 Onboarding experience varied widely based on engagement with YouTube videos or customer support team.  Almost all users had questions during onboarding.
 
 *Opportunity to make this richer and potentially require running 1-3 welcome Vibes before unlocking others.*
 
 
-## Doubt. 
+# Doubt. 
 Some users left with doubt even after onboarding.  “Is this the effect I’m looking for?  Am I using it properly/optimally?”  
 
 *Opportunity to coin language that describes the Vibe experience in a way that resonates.*
 
 
-## Strips.
+# Strips.
 Consistent feedback that the Strips are the largest area of improvement, from both a usability and longevity standpoint.  
 
 *Opportunity to create a “Pro Kit” that’s reusable, or innovate on the strips going forward.*
 
 
-## Socialization.
+# Socialization.
 Questions about intervals of use, others’ habits compared to their own.  
 
 *Opening for social dimension, sharing dimension post-Vibe.*.
 
 
-## Case Studies.
+# Case Studies.
 Almost all were excited to hear about other use cases including athletics and meditation. 
 
 *Opportunity to include three model use cases and even calendaring with the device*
@@ -226,9 +231,3 @@ These perspectives represent our humble opinion, based on a limited understandin
 
 
 # Thank you.
-
-
-
-
-
-
