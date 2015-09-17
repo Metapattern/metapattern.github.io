@@ -81,7 +81,7 @@ User burned themselves with the device.
 
 #### Issues
 <br>
-<img src="/lib/img/Issues.png" width="70%" >
+<img src="lib/img/Issues.png" width="70%" >
 
 
 
@@ -94,7 +94,7 @@ User burned themselves with the device.
 		<td><h4 class="big">1</h4></td>
 	</tr>
 	<tr>
-		<td>h2Actively replacing depressants</td>
+		<td>Actively replacing depressants</td>
 		<td>Actively replacing stimulants</td>
 		<td>Actively replacing tDCS or CES</td>
 	</tr>
@@ -107,7 +107,7 @@ User burned themselves with the device.
 
 #### Value Propositions
 
-<img src="/lib/img/Quadrants.png" width="200%" alt="" style="position: relative; left: -53%;">
+<img src="lib/img/Quadrants.png" width="200%" alt="" style="position: relative; left: -53%;">
 
 
 
