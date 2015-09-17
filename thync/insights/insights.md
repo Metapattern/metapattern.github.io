@@ -1,6 +1,7 @@
 # Welcome.
 
 
+
 #### Introduction
 # The big picture.
 
@@ -25,6 +26,7 @@ Then we tacked on questions about habits of use, and users’ experience of guid
 
 #### Metrics
 # By the numbers.
+<!-- .slide: data-background="lib/img/welcome.jpg" -->
 
 
 #### Love
@@ -74,32 +76,44 @@ User burned themselves with the device.
 
 #### Use Cases
 # Why they Thync.
+<!-- .slide: data-background="lib/img/welcome.jpg" -->
 
 
 #### Issues
+<br>
+<img src="/lib/img/Issues.png" width="70%" >
 
-Insomniacs: 2
-
-Anxious Types (Calm): 5
-
-Fatigue Types (Energy): 9
-
-Undecided & Technologists: 5
 
 
 #### Behavior Change
 
-Actively replacing depressants: 1 person, 5% of our sample.
+<table>
+	<tr>
+		<td><h4 class="big">1</h4></td>
+		<td><h4 class="big">4</h4></td>
+		<td><h4 class="big">1</h4></td>
+	</tr>
+	<tr>
+		<td>h2Actively replacing depressants</td>
+		<td>Actively replacing stimulants</td>
+		<td>Actively replacing tDCS or CES</td>
+	</tr>
+</table>
 
-Actively replacing stimulants: 4 people, 20% of our sample.
+<hr>
 
-Actively replacing tDCS or CES: 1 person, 5% of our sample.
+*Sample size: 20*
+
+
+#### Value Propositions
+
+<img src="/lib/img/Quadrants.png" width="200%" alt="" style="position: relative; left: -53%;">
 
 
 
 #### Key Findings
-
 # High level learnings.  
+<!-- .slide: data-background="lib/img/welcome.jpg" -->
 
 
 # They do their homework.
@@ -135,6 +149,7 @@ Other than males, no clear group stands out.
 
 #### Opportunities
 # Room to Grow.
+<!-- .slide: data-background="lib/img/welcome.jpg" -->
 
 
 # Onboarding.
@@ -171,6 +186,7 @@ Almost all were excited to hear about other use cases including athletics and me
 
 #### Our Perspective
 # Paths forward.
+<!-- .slide: data-background="lib/img/welcome.jpg" -->
 
 
 #### Adoption
